@@ -1,0 +1,23 @@
+.main-form-edit-perfil-2 {
+    padding: 50px 100px;
+    position: fixed;
+    background-color: #e5e5e5;
+    left: 110px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-form-edit-perfil-2 h1 {
+    font-size: 48px;
+    color: #000000;
+    margin-bottom: 70px;
+    color: #0f447e;
+}
+
+.main-form-edit-perfil-2 h2 {
+    font-size: 34px;
+    color: #000000;
+    margin-bottom: 50px;
+    color: #0f447e;
+
+}

@@ -1,0 +1,11 @@
+.container-inputs-add {
+    width: 392px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.inputs-preço-estoque {
+    display: flex;
+}

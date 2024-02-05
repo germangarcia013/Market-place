@@ -1,0 +1,7 @@
+.container-perfil {
+    width: 392px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    height: 350px;
+}

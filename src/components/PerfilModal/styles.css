@@ -1,0 +1,58 @@
+.main-form-edit-perfil {
+    padding: 100px 100px;
+    position: fixed;
+    background-color: #e5e5e5;
+    left: 110px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-form-edit-perfil h1 {
+    font-size: 48px;
+    color: #000000;
+    margin-bottom: 70px;
+    color: #0f447e;
+}
+
+.main-form-edit-perfil h2 {
+    font-size: 34px;
+    color: #000000;
+    margin-bottom: 50px;
+    color: #0f447e;
+
+}
+
+.container-button-edit {
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    gap: 20px;
+}
+
+.btn-edit-produto {
+    width: 179px;
+    height: 36px;
+    border: none;
+    color: #ffffff;
+    background-color: #007DFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-cancelar {
+    border: none;
+    color: #007DFF;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    border-bottom: solid 1px #007DFF;
+}
+
+.alerta-erro-produtos {
+    margin-left: 300px;
+}
+
+.form {
+    height: 700px;
+    width: 450px;
+}

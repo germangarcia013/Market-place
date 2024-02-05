@@ -1,0 +1,6 @@
+.main-home {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: #e5e5e5;
+}

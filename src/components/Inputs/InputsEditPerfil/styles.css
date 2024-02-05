@@ -1,0 +1,11 @@
+.input-register-pass img {
+    width: 20px;
+    position: absolute;
+    top: 23px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.input-register-pass {
+    position: relative;
+}
